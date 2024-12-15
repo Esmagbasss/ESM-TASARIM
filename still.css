@@ -1,0 +1,45 @@
+.resimSlider{
+ height: 600px;
+}
+
+body{
+    padding-top: 50px;
+}
+
+.hakkimizda{
+    background-color:mintcream;
+}
+
+.cizgi{
+    border-color: black;
+    border-style:5px;
+    max-width: 250px;
+    margin: 25px auto;
+}
+
+.kare{
+    font-size: 25px;
+    position:relative;
+    bottom: 60px;
+    
+}
+
+.ekibimiz{
+    background-color:white;
+}
+
+.galeri{
+    background-color: mintcream;
+}
+
+.figure :hover{
+    opacity: 0.8;
+}
+
+.card :hover{
+    opacity: 0.8;
+}
+
+.iletisim{
+    background-color: white;
+}
